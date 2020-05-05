@@ -1,2 +1,0 @@
-# shoppingcartwithoutRedux
-Created with CodeSandbox
